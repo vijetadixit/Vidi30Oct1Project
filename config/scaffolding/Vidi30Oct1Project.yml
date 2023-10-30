@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Vidi30Oct1Project
+  gitServerName: vidi30Oct
+  gitUrl: https://github.com/vijetadixit/Vidi30Oct1Project
+  gitUsername: vijetadixit
+  gitBranch: test
