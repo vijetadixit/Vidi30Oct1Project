@@ -16,3 +16,11 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.613
+- serviceName: project.vidi30oct1.integrations:test1
+  packages:
+  - name: Vidi30Oct1Project
+    version: "1.0"
+- serviceName: pub.date:getCurrentDate
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.613
