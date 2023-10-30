@@ -46,11 +46,11 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">siqaadmin</value>
-    <value name="lastModifiedDate">1698672833213</value>
+    <value name="lastModifiedDate">1698672929399</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">3dc844a6dc37474aaf7888ab160a5fe7</value>
+      <value name="id">cbd07cae9742476aaf997e01439a73b6</value>
       <value name="group">default</value>
-      <value name="name">test</value>
+      <value name="name">TestPsur230Oct</value>
       <value name="executionPlaneType">onprem</value>
     </record>
     <value name="displayName">FS1</value>
