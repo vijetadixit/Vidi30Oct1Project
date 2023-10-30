@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/vijetadixit/Vidi30Oct1Project
   gitUsername: vijetadixit
   gitBranch: test
+services:
+- serviceName: project.vidi30oct1.integrations:FS1
+  packages:
+  - name: Vidi30Oct1Project
+    version: "1.0"
+- serviceName: pub.string:toLower
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.613

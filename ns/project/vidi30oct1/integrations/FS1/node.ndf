@@ -45,13 +45,12 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">siqaadmin</value>
-    <value name="createdDate">1698672592447</value>
-    <value name="lastModifiedDate">1698672592447</value>
+    <value name="lastModifiedBy">siqaadmin</value>
+    <value name="lastModifiedDate">1698672679940</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">829bfba30cf44ffdaade3559f6764055</value>
+      <value name="id">223de60132ed4a6d9cae0fa91c1bf1d0</value>
       <value name="group">default</value>
-      <value name="name">vidi27Oct</value>
+      <value name="name">SIQAEdgeServer301023</value>
       <value name="executionPlaneType">onprem</value>
     </record>
     <value name="displayName">FS1</value>
