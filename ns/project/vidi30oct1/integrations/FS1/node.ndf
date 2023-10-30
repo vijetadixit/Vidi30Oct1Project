@@ -46,11 +46,11 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">siqaadmin</value>
-    <value name="lastModifiedDate">1698672679940</value>
+    <value name="lastModifiedDate">1698672833213</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">223de60132ed4a6d9cae0fa91c1bf1d0</value>
+      <value name="id">3dc844a6dc37474aaf7888ab160a5fe7</value>
       <value name="group">default</value>
-      <value name="name">SIQAEdgeServer301023</value>
+      <value name="name">test</value>
       <value name="executionPlaneType">onprem</value>
     </record>
     <value name="displayName">FS1</value>
@@ -73,6 +73,7 @@
         <number name="nodeIndex" type="Long">0</number>
         <null name="mapSet"/>
         <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
       </record>
     </record>
   </record>
